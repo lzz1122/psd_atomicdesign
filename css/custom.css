@@ -1,0 +1,381 @@
+/* Add here all your CSS customizations */
+a.login{
+	font-size: 17.29px; 
+	color: rgb(37,37,37);
+}
+
+div.login_logo{
+	width: 367px
+}
+
+.login_logo .logo {
+	margin: 150px 0 60px 0;
+}
+
+.login_logo span{
+	font-size: 28px; font-weight: bold
+}
+
+div.login_frm {
+	width: 680px; 
+	padding: 86px 40px 0 20px;
+}
+
+div.login_action {
+	margin-top: 29px; 
+	width: 100%;
+}
+
+div.login-back{
+	width: 100%;
+	min-height: 1207px;
+	background-image: url('../images/login-bg.png');
+	background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-position: center;
+	overflow: hidden;
+}
+
+a.logo{
+	padding-left: 115px;
+}
+
+div.midas-head{
+	background: rgb(37,37,37); 
+	padding-top: 40px;
+	box-shadow: 0 7px 15px 0 rgba(0,0,0,0.16), 0 15px 30px 0 rgba(0,0,0,0.12);
+	height: 242px;
+}
+
+div.leftbar{
+	padding: 40px 0 0 0;
+	background: rgb(234,234,234); 
+	min-height: 400px;
+}
+
+div.logo-width{
+	width: 490px;
+}
+
+div.maincontent{
+	padding: 130px 6.5% 0 6.5%;
+	background: white;
+}
+
+span.table-title {
+	color: rgb(37,37,37);
+	font-size: 25px; 
+	font-weight: 500;
+}
+
+span.main-title{
+	color: rgb(37,37,37);
+	font-size: 40.64px;
+	font-weight: bold;
+}
+
+span.totalnums{
+	color: rgb(255, 174, 0);
+}
+
+span.welcome{
+	font-size: 27px;
+	color: rgb(37, 37, 37);
+	font-weight: bold;
+}
+
+div.main{
+	margin: 0px;
+}
+
+div.table{
+	padding: 15px 10.5% 0 12.5%;
+}
+
+table.my-table{
+	width: 100%;
+}
+
+table.my-table > thead > tr > td, table.my-table > tbody > tr > td{
+	padding: 6px;
+}
+
+table.my-table > thead{
+	background: rgb(44, 39, 53);
+	color: white;
+}
+
+table.my-table > tbody{
+	background: white;
+}
+
+td.cell-name{
+	color: rgb(239, 123, 28);
+	border: 1px solid rgb(191, 189, 192);
+	border-left: white;
+}
+
+td.cell-created{
+	border-color: rgb(44, 39, 53);
+	border: 1px solid rgb(191, 189, 192);
+}
+
+td.cell-actions{
+	color: rgb(239, 123, 28);
+	border: 1px solid rgb(191, 189, 192);
+}
+
+td.cell-delete{
+	color: rgb(239, 123, 28);
+	border: 1px solid rgb(191, 189, 192);
+	border-right: white;
+}
+
+td.bottom{
+	border-bottom: white;
+}
+
+.padding0{
+	padding: 0;
+}
+
+.margin0{
+	margin:0;
+}
+
+div.create-job {
+	height: 640px; 
+	background: rgb(249, 199, 44); 
+	margin-bottom: 24px; 
+	padding-top: 70px;
+}
+
+div.job {
+	height: 640px; 
+	background: rgb(234, 234, 234); 
+	margin-bottom: 24px; 
+}
+
+span.home-icon {
+	color: black; 
+	font-size: 130px;
+}
+
+span.create {
+	color: rgb(37, 37, 37); 
+	font-size: 60.76px;
+}
+
+span.newjob {
+	color: rgb(37, 37, 37); 
+	font-size: 28.12px;
+}
+
+div.gap55 {
+	width: 100%;
+	height: 55px;
+}
+
+div.gap15 {
+	width: 100%;
+	height: 15px;
+}
+
+div.gap50 {
+	width: 100%;
+	height: 50px;
+}
+
+span.newjob-desc {
+	color: rgb(37,37,37); 
+	font-size: 19px;
+}
+
+.black-btn {
+	border-radius: 0; 
+	background: black; 
+	font-size: 20.44px; 
+	font-weight: bold;
+	width: 167px;
+	color: white;
+}
+
+.black-btn-radius { 
+	font-size: 22.5px; 
+	font-weight: bold;
+	width: 110px;
+	color: white;
+	border-radius: 10px;
+}
+
+.yellow-btn {
+	border-radius: 0; 
+	background: rgb(249, 199, 44); 
+	font-size: 20.44px; 
+	font-weight: bold;
+	width: 167px;
+	color: black;
+}
+
+div.btn_pos{
+	position: absolute; 
+	bottom: 50px;
+}
+
+span.job-title{	
+	color: rgb(37,37,37);
+	font-weight: bold;
+	font-size: 28px;
+}
+
+img.jobimg {
+	width: 100%; 
+	height: 275px; 
+	margin-bottom: 15px;
+}
+
+span.job-desc {
+	color: rgb(37,37,37);
+	font-size: 17px;
+}
+
+span.job-desc-bold {
+	color: rgb(37,37,37);
+	font-weight: bold;
+	font-size: 17px;
+}
+
+span.start_no{
+	font-size: 56.83px;
+	font-weight: bold;
+}
+
+span.subtitle {
+	font-size: 20px;
+}
+
+span.subcontent {
+	font-size: 16px;
+}
+
+.midas-foot {
+	width: 100%;
+	height: 725px;
+	background-image: url('../images/footer-bg.png');
+    background-size: contain;
+}
+
+div.footer-desc{
+	padding-top: 200px;
+	color: white; 
+	font-size: 50.53px;
+}
+
+div.user_info{
+	margin-top: 70px;
+}
+
+div.usermsg {
+	margin-top: 115px;
+}
+
+div.btn_action {
+	margin-top: 75px;
+}
+
+input.send_msg{
+	width: 100%;
+	border: 1px solid white;
+	background: unset;
+    border-width: 0 0 2px 0;
+    border-radius: 0;
+	color: white;
+	padding: 0 0 0 5px;
+}
+
+button.btn-send {
+	cursor: pointer;
+	font-size: 50.53px;
+	font-weight: bold;
+	padding: 15px 30px;
+	border: 1px solid white;
+	color: white;
+	background: unset;
+}
+
+.send_msg::placeholder {
+    color: white;
+	text-align: center;
+    opacity: 1; /* Firefox */
+}
+
+/*  create new job  */
+div.create-new-job {
+	padding-top: 115px;
+	width: 75%;
+}
+
+input.job-info {
+	width: 100%;
+	border-radius: 12px;
+	border: 1px solid rgb(204, 204, 204);
+	padding: 30px 45px;
+	margin-bottom: 10px;
+	font-size: 24.81px;
+}
+
+input.job-info::placeholder {
+    color: rgb(139, 144, 150);
+	font-weight: bold;
+    opacity: 1; /* Firefox */
+}
+
+.btn_radius{
+	border-radius: 10px;
+}
+
+.fileContainer-disabled{
+	border-radius: 5px;
+	cursor: pointer;
+	font-size: 17px;
+	padding: 2px 15px;
+	color: white;
+	background: rgb(167,167,167);
+}
+
+.fileContainer {
+	border-radius: 5px;
+	cursor: pointer;
+	background: rgb(189,152,69);
+	font-size: 17px;
+	padding: 2px 15px;
+	color: white;
+	overflow: hidden;
+    position: relative;
+	margin: 10px 0 0 0;
+}
+
+.fileContainer:hover{
+	background: rgb(205,165,72); 
+	color: white;
+}
+
+.fileContainer:active{
+	background: rgb(182, 146, 64); 
+	color: white;
+	text-decoration: none;
+}
+
+.fileContainer [type=file] {
+    cursor: inherit;
+    display: block;
+    font-size: 999px;
+    filter: alpha(opacity=0);
+    min-height: 100%;
+    min-width: 100%;
+    opacity: 0;
+    position: absolute;
+    right: 0;
+    text-align: right;
+    top: 0;
+}
